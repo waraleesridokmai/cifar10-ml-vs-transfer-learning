@@ -1,0 +1,4 @@
+Model,Best Parameters,Best CV Accuracy,Validation Accuracy,Training Time (seconds)
+SVM,"{'C': 10, 'kernel': 'rbf'}",0.6398,0.648,3497.87
+Random Forest,"{'max_depth': None, 'n_estimators': 200}",0.5313,0.5376,108.34
+KNN,"{'n_neighbors': 7, 'weights': 'distance'}",0.5004,0.5095,12.4

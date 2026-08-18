@@ -1,0 +1,2 @@
+Selected ML Model,Validation Accuracy,Test Accuracy,Feature Method,Purpose
+SVM,0.648,0.6559,HOG + Colour Histogram,Traditional ML comparison with DL model
