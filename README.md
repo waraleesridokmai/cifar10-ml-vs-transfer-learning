@@ -2,7 +2,7 @@
 
 University team project comparing traditional feature-based machine learning with transfer-learning convolutional neural networks for ten-class image classification on CIFAR-10.
 
-![Deep-learning and machine-learning comparison](dl_vs_ml_comparison.png)
+![Deep-learning and machine-learning comparison](comparison.svg)
 
 ## Results
 

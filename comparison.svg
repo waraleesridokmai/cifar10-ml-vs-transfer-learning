@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">CIFAR-10 held-out test accuracy</title>
+  <desc id="desc">EfficientNet-B0 transfer learning achieved 94.27 percent test accuracy. The SVM using HOG and colour histogram features achieved 66.13 percent.</desc>
+  <rect width="1200" height="720" fill="#ffffff"/>
+  <text x="80" y="74" fill="#090b10" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700">CIFAR-10 held-out test accuracy</text>
+  <text x="80" y="110" fill="#595d68" font-family="Consolas, Menlo, monospace" font-size="18">Validation-selected models · test set used once for final evaluation</text>
+  <g stroke="#c9cdd6" stroke-width="2">
+    <line x1="135" y1="150" x2="1120" y2="150"/>
+    <line x1="135" y1="238" x2="1120" y2="238"/>
+    <line x1="135" y1="326" x2="1120" y2="326"/>
+    <line x1="135" y1="414" x2="1120" y2="414"/>
+    <line x1="135" y1="502" x2="1120" y2="502"/>
+    <line x1="135" y1="590" x2="1120" y2="590"/>
+  </g>
+  <g fill="#595d68" font-family="Consolas, Menlo, monospace" font-size="17" text-anchor="end">
+    <text x="118" y="156">100</text>
+    <text x="118" y="244">80</text>
+    <text x="118" y="332">60</text>
+    <text x="118" y="420">40</text>
+    <text x="118" y="508">20</text>
+    <text x="118" y="596">0</text>
+  </g>
+  <rect x="270" y="175.2" width="270" height="414.8" fill="#1545de"/>
+  <rect x="720" y="299.0" width="270" height="291.0" fill="#ff5b1f"/>
+  <g fill="#090b10" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="405" y="154" font-size="34" font-weight="700">94.27%</text>
+    <text x="855" y="278" font-size="34" font-weight="700">66.13%</text>
+    <text x="405" y="632" font-size="22" font-weight="700">Transfer learning</text>
+    <text x="405" y="662" font-size="18">EfficientNet-B0</text>
+    <text x="855" y="632" font-size="22" font-weight="700">Feature-based ML</text>
+    <text x="855" y="662" font-size="18">SVM · HOG + colour histogram</text>
+  </g>
+</svg>
